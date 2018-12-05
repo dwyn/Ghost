@@ -1,6 +1,6 @@
 {
   "name": "ghost",
-  "version": "2.6.0",
+  "version": "2.6.2",
   "description": "The professional publishing platform",
   "author": "Ghost Foundation",
   "homepage": "https://ghost.org",
@@ -103,7 +103,7 @@
   },
   "optionalDependencies": {
     "sharp": "0.21.0",
-    "sqlite3": "4.0.3"
+    "sqlite3": "^4.0.3"
   },
   "devDependencies": {
     "eslint": "4.19.1",
